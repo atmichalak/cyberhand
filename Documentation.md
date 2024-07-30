@@ -15,9 +15,9 @@
 # Arduino IDE
 [Arduino Documentation](https://docs.arduino.cc)
 
+# Servos
+## EMAX ES3352 Servo
 
-# EMAX ES3352 Servo
+## FeeTech SCS2332
 
-# Wrist Servo 1
-
-# Wrist Servo 2
+## FeeTech SCS15
